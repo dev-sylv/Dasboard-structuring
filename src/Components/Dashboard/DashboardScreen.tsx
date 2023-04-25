@@ -16,6 +16,8 @@ const DashboardScreen = () => {
   );
 };
 
+// dashboard
+
 export default DashboardScreen;
 
 const Div = styled.div`
